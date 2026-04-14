@@ -17,7 +17,7 @@
 
 ### 后端环境 (`zaojia-后`)
 - **Web框架**：[FastAPI](https://fastapi.tiangolo.com/) (构建高性能异步API)
-- **数据库及ORM**：MySQL + [SQLAlchemy 2.0](https://www.sqlalchemy.org/) / SQLModel 
+- **数据库及ORM**：MySQL + [SQLAlchemy](https://www.sqlalchemy.org/) / SQLModel 
 - **数据库驱动**：asyncmy / motor
 - **鉴权**：PyJWT
 - **服务器与工具**：Uvicorn, Pydantic, Loguru, python-dotenv
