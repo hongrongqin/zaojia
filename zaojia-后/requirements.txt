@@ -1,0 +1,15 @@
+fastapi==0.115.6
+funboost==47.4
+loguru==0.7.2
+motor==3.6.0
+pydantic==2.10.3
+pydantic_settings==2.6.1
+python-dotenv==1.0.1
+SQLAlchemy==2.0.36
+sqlmodel==0.0.22
+starlette==0.41.3
+uvicorn==0.32.1
+pyjwt==2.10.1
+asyncmy==0.2.10
+fastapi_cdn_host==0.9.2
+aiohttp==3.12.14
